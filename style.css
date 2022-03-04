@@ -88,7 +88,7 @@ body {
 }
 
 
-.section_Title_one {
+.section_one {
     display: flex;
     height: 100px;
     width: 50%;
@@ -96,7 +96,7 @@ body {
     border: 10px solid rgb(107, 87, 221);
 }
 
-.section_Title_two {
+.section_two {
     display: flex;
     width: 50%;
     height: 300px;
@@ -158,7 +158,7 @@ body {
 
 .levo {
     width: 200px;
-    height: 400px;
+    height: 370px;
     border: 10px solid rgb(245, 94, 6);
     display: flex;
     flex-direction: row;
